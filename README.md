@@ -1,7 +1,7 @@
 # Calculater-JS
 This project demonstrates a basic functioning calculator developed using HTML, CSS, and JavaScript. It implements fundamental arithmetic operations, including addition, subtraction, multiplication, and division. The calculator features a user-friendly interface with clear buttons and a display panel for viewing input and results.
 
-## Project Structure
+### Project Structure
 
 The project consists of three main files:
 
@@ -12,7 +12,7 @@ style.css: CSS file defining the calculator's visual appearance, styles, and pos
 script.js: JavaScript file handling user interactions, performing calculations, and updating the display
 
 
-**Running the Calculator**
+### Running the Calculator
 
 1.Download the project files (index.html, style.css, script.js) to your local machine.
 
@@ -21,14 +21,14 @@ script.js: JavaScript file handling user interactions, performing calculations, 
 3.The calculator should be displayed and ready for use.
 
 
-**Project Setup**
+### Project Setup
 
 1.Install a code editor or IDE for editing HTML, CSS, and JavaScript files.
 
 2.Ensure your web browser is up to date.
 
 
-**Contributing Guidelines**
+### Contributing Guidelines
 
 1.Fork the project repository.
 
@@ -43,9 +43,9 @@ script.js: JavaScript file handling user interactions, performing calculations, 
 6.Create a pull request to merge your changes into the main branch.
 
 
-**Demo**
+### Demo
 ![image](https://github.com/VimukthiniAttanayaka/Calculater-JS/assets/73266263/2601d15d-bb36-41de-8567-d94c660b078a)
 
-**Contact**
+### Contact
 
 For inquiries or support, please contact vimukthinia@gmail.com
