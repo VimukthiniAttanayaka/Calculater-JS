@@ -1,7 +1,7 @@
 # Calculater-JS
 This project demonstrates a basic functioning calculator developed using HTML, CSS, and JavaScript. It implements fundamental arithmetic operations, including addition, subtraction, multiplication, and division. The calculator features a user-friendly interface with clear buttons and a display panel for viewing input and results.
 
-# Project Structure
+"Project Structure"
 The project consists of three main files:
 
 index.html: HTML file containing the calculator's layout and user interface elements
